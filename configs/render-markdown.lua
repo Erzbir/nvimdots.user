@@ -101,6 +101,17 @@ return {
 			},
 		},
 	},
+	html = {
+		enabled = true,
+		render_modes = false,
+		comment = {
+			conceal = true,
+			text = nil,
+			highlight = "RenderMarkdownHtmlComment",
+		},
+		tag = {
+		},
+	},
 	link = {
 		wiki = { icon = " ", highlight = "RenderMarkdownWikiLink", scope_highlight = "RenderMarkdownWikiLink" },
 		image = " ",
