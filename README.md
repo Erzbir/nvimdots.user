@@ -8,6 +8,8 @@ User-layer (overlay) configuration for [ayamir/nvimdots](https://github.com/ayam
   Image rendering support inside Neovim (for markdown, etc).
 - **kylechui/nvim-surround**
   Add/change/delete surrounding delimiter pairs.
+- **mfussenegger/nvim-jdtls**
+  Java Dev support
 
 ## Disabled Plugins
 
