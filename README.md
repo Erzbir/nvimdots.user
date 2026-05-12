@@ -10,6 +10,8 @@ User-layer (overlay) configuration for [ayamir/nvimdots](https://github.com/ayam
   Add/change/delete surrounding delimiter pairs.
 - **mfussenegger/nvim-jdtls**
   Java Dev support
+- **chomosuke/typst-preview.nvim**
+  Typst Preview
 
 ## Disabled Plugins
 

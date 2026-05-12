@@ -6,4 +6,9 @@ custom["3rd/image.nvim"] = {
 	config = require("configs.tool.image"),
 }
 
+custom['chomosuke/typst-preview.nvim'] = {
+  lazy = false,
+  opts = {},
+}
+
 return custom
