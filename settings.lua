@@ -9,6 +9,7 @@ settings["use_chat"] = false
 settings["use_copilot"] = false
 settings["format_on_save"] = false
 settings["format_modifications_only"] = true
+settings["edit_prediction_source"] = "copilot"
 
 settings["disabled_plugins"] = {
 	"dstein64/nvim-scrollview",

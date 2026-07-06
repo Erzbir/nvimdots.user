@@ -34,3 +34,4 @@ User-layer (overlay) configuration for [ayamir/nvimdots](https://github.com/ayam
 - use_copilot = false
 - format_on_save = false
 - format_modifications_only = true
+- edit_prediction_source = "copilot"
