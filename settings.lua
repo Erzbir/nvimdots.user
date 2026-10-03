@@ -3,6 +3,7 @@ local settings = {}
 
 settings["colorscheme"] = "catppuccin"
 settings["background"] = "dark"
+settings["transparent_background"] = true
 
 settings["use_ssh"] = true
 settings["use_chat"] = false

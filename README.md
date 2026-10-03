@@ -29,6 +29,7 @@ User-layer (overlay) configuration for [ayamir/nvimdots](https://github.com/ayam
 
 - colorscheme = "catppuccin"
 - background = "dark"
+transparent_background = true
 - use_ssh = true
 - use_chat = false
 - use_copilot = false
