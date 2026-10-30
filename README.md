@@ -25,6 +25,12 @@ User-layer (overlay) configuration for [ayamir/nvimdots](https://github.com/ayam
 - MeanderingProgrammer/render-markdown.nvim
 - nvim-tree/nvim-tree.lua
 
+## Swift LSP
+
+[`configs/lsp.lua`](configs/lsp.lua) enables the `sourcekit` language server for Swift files when `sourcekit-lsp` is available on `PATH`. It uses the shared LSP capabilities from nvimdots.
+
+SDK and module flags come from the project's normal build system or build database.
+
 ## Modified Settings
 
 - colorscheme = "catppuccin"
